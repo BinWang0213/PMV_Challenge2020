@@ -4,7 +4,7 @@ Bin Wang (binwang.0213@gmail.com)
 Craft & Hawkins Department of Petroleum Engineering, Louisiana State University, US
 
 <p align="center">
-<img src="../master/output/Cover.jpg?raw=true" height="640" />
+<img src="../main/output/Cover.jpg?raw=true" height="640" />
 </p>
 
 ## Description
