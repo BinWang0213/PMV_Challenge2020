@@ -52,6 +52,7 @@ image_binary_Display.SetScalarBarVisibility(renderView, False)
 
 Blocks=[]
 Blocks_Display=[]
+'''
 #Small memory case
 for i in range(3):
    block=XMLUnstructuredGridReader(FileName=['E:/Code_Repos/PMV_Challenge2020/Rock_Cut_%d.vtu'%(i+1)])
@@ -59,8 +60,8 @@ for i in range(3):
    #colorData(block,block_show,'MetaImage','erdc_divLow_icePeach',showColorBar=False)
    Blocks+=[block]
    Blocks_Display+=[block_show]
-
 '''
+
 #Large memory case
 for cutRange in [(0.0,0.15),(0.15,0.85),(0.85,1.0)]:
    clip1 = Clip(Input=rock)
@@ -75,7 +76,7 @@ for cutRange in [(0.0,0.15),(0.15,0.85),(0.85,1.0)]:
 
    Blocks+=[clip1]
    Blocks_Display+=[clip1_Display]
-'''
+
 
 Hide(rock)
 
