@@ -6,6 +6,7 @@ Craft & Hawkins Department of Petroleum Engineering, Louisiana State University,
 <p align="center">
 <img src="../main/output/Cover.jpg?raw=true" height="350" />
 </p>
+[![111](http://img.youtube.com/vi/lZj3ErmP1kk/0.jpg)](http://www.youtube.com/watch?v=YlZj3ErmP1kk "Video Title")
 
 ## Description
 
