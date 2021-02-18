@@ -5,7 +5,7 @@ Craft & Hawkins Department of Petroleum Engineering, Louisiana State University,
 
 
 <p align="center">
-  <a href="http://www.youtube.com/watch?v=lZj3ErmP1kk"><img alt="SeismicMesh" src="../main/output/Cover.jpg?raw=true" width="40%"></a>
+  <a href="http://www.youtube.com/watch?v=lZj3ErmP1kk"><img alt="SeismicMesh" src="../main/output/Cover.jpg?raw=true" width="60%"></a>
   <p align="center">Porous media visualization</p>
 </p>
 Youtube Video: http://www.youtube.com/watch?v=lZj3ErmP1kk
