@@ -3,8 +3,10 @@ Porous media visualization and data reuse challenge
 Bin Wang (binwang.0213@gmail.com)
 Craft & Hawkins Department of Petroleum Engineering, Louisiana State University, US
 
+
 <p align="center">
-<img src="../main/output/Cover.jpg?raw=true" height="350" />
+  <a href="http://www.youtube.com/watch?v=lZj3ErmP1kk"><img alt="SeismicMesh" src="../main/output/Cover.jpg?raw=true" width="40%"></a>
+  <p align="center">Porous media visualization</p>
 </p>
 Youtube Video: http://www.youtube.com/watch?v=lZj3ErmP1kk
 
